@@ -1,0 +1,37 @@
+#recipe-page{
+    position: absolute;
+    margin: auto;
+    left: 0px;
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+#recipe-title{
+    font-size: 35px;
+    color: white;
+    text-align: center;
+}
+#ingredients{
+    color: 217 84 84;
+    font-size: 20px;
+   postion: absolute;
+}
+#directions{
+    color: darkred;
+    font-size: 17px;
+    top: 800px;
+    position: absolute
+}
+.history{
+    background-color: white;
+    text-align: center;
+    color: darkred;
+    height:150px;
+    border-radius: 40%;
+}
+.image{
+ position: relative;
+ left: 700px;
+ top: -350px;
+}
